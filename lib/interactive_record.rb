@@ -5,6 +5,10 @@ class InteractiveRecord
   
   attr_accessor
   
+  def initialize(attribute)
+    
+    @attribute
+  
   def table_name 
     
   end 
