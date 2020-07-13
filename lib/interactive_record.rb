@@ -7,4 +7,8 @@ class InteractiveRecord
     
   end 
   
+  def column_names 
+    
+  end 
+  
 end
