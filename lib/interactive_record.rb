@@ -8,6 +8,8 @@ class InteractiveRecord
   def initialize(attribute)
     
     @attribute
+    
+  end 
   
   def table_name 
     
